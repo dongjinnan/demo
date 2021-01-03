@@ -6,30 +6,30 @@ demo
 -- src # project code root path
    -- main
       -- java
-	     -- com
-		    -- example
-			   -- demo
-			      -- controller
-				     -- DemoController.java
-				  -- service
-				     -- impl
-					    -- DemoServiceImpl.java
-					 -- DemoService.java
-				  -- DemoApplication.java
+	 -- com
+            -- example
+	       -- demo
+	          -- controller
+		     -- DemoController.java
+	          -- service
+		     -- impl
+		        -- DemoServiceImpl.java
+		     -- DemoService.java
+		  -- DemoApplication.java
 	  -- resources
-	     -- static
+	     -- static 
 		    -- bootstrap
-			-- js
-			-- css
+		    -- js
+		    -- css
 		 -- templates
 		    -- index.html
-		 -- application.properties
+		 -- application.properties 
    -- test
       -- java
-	     -- com
-		    -- example
-			   -- demo
-			      -- DemoServiceTest.java
+	 -- com
+	    -- example
+	       -- demo
+	          -- DemoServiceTest.java
 -- pom.xml # project dependencies
 ``` 
 
